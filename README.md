@@ -7,8 +7,7 @@
 4、user 用户页
 
 首页：
-<img href="screenshot/screenshots/hompage1.png">
-<img href="screenshot/screenshots/hompage2.png">
+![image](https://github.com/Lvfei123/screenshot/blob/master/screenshots/cart1.png)
 
 运行:
 npm install
