@@ -20,6 +20,9 @@
 
 用户页：会跳转到小米官网
 
+产品：<br><br>
+![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/product.png) <br><br>
+
 运行:
 npm install <br>
 npm run serve
