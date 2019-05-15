@@ -112,7 +112,7 @@ export default {
     }
     .slip {
         height: 36px;
-        width: 375px;
+        width: 85%;
         
         display: inline-block;
         overflow-x: scroll;
@@ -147,22 +147,20 @@ export default {
         height: 135px;
         margin: 0 auto;
         ul {
-            margin-left: 15px;
             margin-top: 18px;
+            display: table;
+            width: 100%;
             li {
-                float: left;
-                width: 85px;
+                display: inline-block;
+                width: 22%;
                 height: 30px;
                 border: 1px solid #e5e5e5;
-                margin: 0 11px 14px 0;
                 background: white;
                 font-size: 14px;
                 line-height: 32px;
                 text-align: center;
                 border-radius: 4px;
-                &:nth-child(4){
-                    margin-right: 0px;
-                }
+                margin:5px 1%;
             }
         }
         span {
