@@ -23,6 +23,6 @@
 产品：<br><br>
 ![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/product1.png) <br><br>
 
-运行:
+运行:<br>
 npm install <br>
 npm run serve
