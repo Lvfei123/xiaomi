@@ -7,7 +7,7 @@
 4、user 用户页
 
 首页：
-![image](https://github.com/Lvfei123/screenshot/blob/master/小米官网/cart1.png)
+![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/cart1.png)
 
 运行:
 npm install
