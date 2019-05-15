@@ -7,21 +7,21 @@
 4、user 用户页
 
 首页：<br><br>
-![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/hompage1.png) &nbsp
+![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/hompage1.png)  
 ![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/homepage2.png) <br><br>
 
 菜单页：<br><br>
-![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/category1.png) &nbsp
+![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/category1.png)  
 ![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/category2.png) <br><br>
 
 购物车页：<br><br>
-![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/cart1.png) &nbsp
+![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/cart1.png)  
 ![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/cart2.png) <br><br>
 
 用户页：会跳转到小米官网
 
 产品：<br><br>
-![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/product.png) <br><br>
+![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/product1.png) <br><br>
 
 运行:
 npm install <br>
