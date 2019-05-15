@@ -7,7 +7,7 @@
 4、user 用户页
 
 首页：<br>
-![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/homepage1.png)
+![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/hompage1.png)
 ![image](https://github.com/Lvfei123/screenshot/blob/master/xiaomi/homepage2.png)
 
 菜单页：<br>
